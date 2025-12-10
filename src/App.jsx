@@ -62,7 +62,7 @@ function App() {
 }
 
 function Header(){
-  return <div style={{display:"flex",justifyContent:"center", backgroundColor:"blue", color : "white"}}>
+  return <div style={{display:"flex",justifyContent:"center", backgroundColor : "hotpink", color:"white"}}>
     <h1>Pet Adoptation Form</h1>
   </div>
 }
